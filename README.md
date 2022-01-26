@@ -5,7 +5,7 @@ News letter (My first Project using express Js )
 ## Installation
 1) clone the project
 ```bash
- git clone https://github.com/kartikpavan/User_Auth.git
+ git clone https://github.com/kartikpavan/newsletter.git
 ```
 2) install the necessary dependencies
 ``` bash
